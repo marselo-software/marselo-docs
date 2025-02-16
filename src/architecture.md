@@ -69,3 +69,7 @@ Marselo is built using **Next.js** as a unified frontend and backend solution, i
 - **Expanded Data Sources**: Integration with DEX swap data for improved token analytics.
 - **Optimized Computation**: Enhancements in AI efficiency using advanced statistical models.
 - **Smart Contract Upgrades**: Enabling more complex governance and user interactions.
+
+<div class="warning">
+    This project is currently in MVP stage, and we are using testnet data from Remix. In the future, we plan to integrate token swaps to gather more data from the network.
+</div>

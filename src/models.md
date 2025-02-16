@@ -49,3 +49,7 @@ Marselo is an AI-powered blockchain analytics platform that leverages the Cartes
   - Risk assessment scores for different tokens based on their liquidity stability.
   - Analysis of liquidity provider behaviors and shifts in liquidity pools.
   - Detection of vulnerabilities in smaller market-cap tokens prone to manipulation.
+
+<div class="warning">
+    This project is currently in MVP stage, and we are using testnet data from Remix. In the future, we plan to integrate token swaps to gather more data from the network.
+</div>

@@ -37,3 +37,7 @@ By leveraging the flexibility of the **Cartesi Coprocessor**, Marselo can scale 
 Marselo is committed to making the use of AI-driven decentralized applications accessible to a wider audience. The platform will continue to focus on user-friendly **APIs** and **intuitive interfaces** that make it easy for developers and users to integrate advanced AI capabilities into their projects. By abstracting the complexities of AI and blockchain, Marselo will offer a streamlined user experience, allowing decentralized applications to benefit from powerful AI insights with minimal friction.
 
 In the future, Marselo will also provide more tools and resources to help developers incorporate decentralized AI into their own platforms, whether it's for predictive analytics, trading, governance, or any other use case. This will further expand Marselo’s reach, empowering a larger ecosystem of decentralized applications to tap into the power of AI.
+
+<div class="warning">
+    This project is currently in MVP stage, and we are using testnet data from Remix. In the future, we plan to integrate token swaps to gather more data from the network.
+</div>
