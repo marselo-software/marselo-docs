@@ -1,0 +1,6 @@
+[book]
+authors = ["c0utin", "omatheu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Marselo Software Documentation"
